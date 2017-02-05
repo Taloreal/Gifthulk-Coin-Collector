@@ -2,6 +2,7 @@
 An automation tool to earn virtual currency on www.gifthulk.com by automatically watching ads and playing a luck vs odds game. 
 
 To use this automation tool follow these instructions:
+
 1. Register for the website normally without using a social media account.
 
 2. Run the program as administrator when prompted and enter login information you've provided to Gifthulk.
